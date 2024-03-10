@@ -9,9 +9,6 @@ https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-gui
 2. Publish an image to Azure Container Registry
 3. Run containers by using Azure Container Instance
 4. Create solutions by using Azure Container Apps
-https://learn.microsoft.com/en-us/training/modules/publish-container-image-to-azure-container-registry/1-introduction
-
-
 
 # Implement Azure App Service Web Apps
 1. Create an Azure App Service Web App
